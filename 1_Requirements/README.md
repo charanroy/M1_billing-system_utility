@@ -1,3 +1,2 @@
-With this project in C Telecom Billing System, you can perform and manage billing operations like they do in Telecom companies. 
-Here, you can add records with name, phone number and the amount of payment. 
-You can view, modify, search and delete existing records.
+# <Description>
+  With this project in C Telecom Billing System, you can perform and manage billing operations like they do in Telecom companies. Here, you can add records with name, phone number and the amount of payment. You can view, modify, search and delete existing records.
