@@ -261,3 +261,4 @@ void payment()
 	getch();
 	fclose(f);
 }
+
