@@ -24,3 +24,5 @@
 
 ### Threat
 ![swot-analysis-of-telecom-industry-12-638](https://user-images.githubusercontent.com/85664193/152697757-4063b256-3861-49f4-9ee3-79f207557a91.jpg)
+
+Requirements based on the corresponding 
