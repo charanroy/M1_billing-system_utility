@@ -25,9 +25,7 @@ int main()
 
 	system("cls");
 
-	printf("\n\n\n\n\n\n\n\n\n**************************************************************");
-	printf("\n\t\t------WELCOME TO THE TELECOM BILLING MANAGEMENT SYSTEM---");
-	printf("\n\t\t****************************************************************");
+	printf("\n\t\t CHARANROY'S TELECOM BILLING MANAGEMENT SYSTEM ");
 	Sleep(2000);
 	getch();
     system("cls");
@@ -58,6 +56,7 @@ int main()
 				system("cls");
 				printf("\n\n\t\t\t\tTHANK YOU");
 				printf("\n\n\n\n\n:\n\tFOR USING OUR SERVICE");
+				printf("\n\n\n\n\n:\n\tPLEASE VISIT AGAIN");
 				Sleep(2000);
 				exit(0);
 				break;
