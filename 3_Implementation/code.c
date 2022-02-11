@@ -5,8 +5,8 @@
 #include<stdlib.h>
 struct subscriber
 {
-char phonenumber[20];
-char name[50];
+char phonenumber[10];
+char name[40];
 float amount;
 }s;
 void addrecords();
@@ -84,7 +84,7 @@ void addrecords()
 	while(1)
 	{
 		system("cls");
-		printf("\n Enter phone number:");
+		printf("\n Enter the phone number:");
 		scanf("%s",&s.phonenumber);
 		printf("\n Enter name:");
 		fflush(stdin);
@@ -258,6 +258,7 @@ void payment()
 	}
 	system("cls");
 	printf("THANK YOU %s FOR YOUR TIMELY PAYMENTS",s.name);
+	printf("***PLEASE VISIT AGAIN***");
 	getch();
 	fclose(f);
 }
