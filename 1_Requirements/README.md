@@ -6,7 +6,7 @@
 ### - Customer Relationship Management
 ### - Identical Record Checking
 ### - Business Model support
-### - Security
+### - Security and Maintanance
 ### - Integration with Multiple Payment Gateways
 
 ## * Low Level Requirements
