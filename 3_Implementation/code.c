@@ -1,3 +1,14 @@
+/**
+ * @file code.c
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-22
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
@@ -67,6 +78,10 @@ int main()
 		}
 	}
 }
+/**
+ * @brief 
+ * 
+ */
 void addrecords()
 {
 	FILE *f;
@@ -79,6 +94,10 @@ void addrecords()
 		printf("/npress any key to continue");
 		getch();
 	}
+	/**
+	 * @brief 
+	 * 
+	 */
 	while(1)
 	{
 		system("cls");
